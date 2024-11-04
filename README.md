@@ -1,9 +1,4 @@
-# Auth
-
-Welcome to Auth! A reuseable block for authentication and authorization, built using Authjs, Nextjs, React, Typescript, Tailwind css, Shadch, mongoDB, and Prisma.
-
-<!-- ### The code inspierd by this [video](https://www.youtube.com/watch?v=1MTyCvS05V4).
-### Thanks to the Code With Antonio YouTube channel -->
+<img src="/public/readme/banner.png" alt="Project Banner"> 
 
 **The code inspired by this [video](https://www.youtube.com/watch?v=1MTyCvS05V4).**  
 **Credits: [Antonio Erdeljac](https://github.com/AntonioErdeljac).**
